@@ -15,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Telegram Bot Token
-TOKEN = "7880947646:AAHGXQePLW3d-NNe0vKRpCFn1nWYPrZCMJA" # Make sure this is correct
+TOKEN = "7705883869:AAF5KsIeyMnUWfQC3qGbeJNJwmasR_8Xi3c" # Make sure this is correct
 
 # Quiz Configuration
 SUBJECTS = ["Internet Technology", "Software Engineering", "Data Structures", "Computer Networks", "Database Systems"]
